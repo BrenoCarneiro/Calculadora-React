@@ -1,0 +1,4 @@
+@font-face {
+    font-family: 'digii';
+    src: local('digii'), url(./../public/fonts/DS-DIGII.TTF) format('truetype');
+  }
