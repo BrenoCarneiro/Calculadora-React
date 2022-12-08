@@ -1,4 +1,4 @@
-#Calculadora feita em React 
+# Calculadora feita em React 
 
 Realiza operações básicas e totalmente funcionais. 
 
