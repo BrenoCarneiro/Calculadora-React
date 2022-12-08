@@ -1,3 +1,13 @@
+#Calculadora feita em React 
+
+Realiza operações básicas e totalmente funcionais. 
+
+![image](https://user-images.githubusercontent.com/102473053/206507589-145e2e63-c494-4008-9136-7e0aa074fd03.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
